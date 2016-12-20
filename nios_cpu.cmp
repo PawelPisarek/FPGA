@@ -1,0 +1,6 @@
+	component nios_cpu is
+		port (
+			clk_in_clk : in std_logic := 'X'  -- clk
+		);
+	end component nios_cpu;
+
